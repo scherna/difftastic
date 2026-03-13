@@ -163,4 +163,7 @@ assets = [
 	[ "CHANGELOG.md", "usr/share/doc/difftastic/", "644" ],
 ]
 
+[patch.crates-io]
+tree-sitter-haskell = { git = "https://github.com/scherna/tree-sitter-haskell", rev = "ed944ce011f5c907ddec72e1e7ecdc15dd17cf18" }
+
 [features]
